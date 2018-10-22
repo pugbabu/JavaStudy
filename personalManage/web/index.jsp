@@ -11,6 +11,6 @@
     <title>人事管理系统</title>
   </head>
   <body>
-    第一个人事管理系统程序11244556
+    这个是我第一个JSP项目
   </body>
 </html>
